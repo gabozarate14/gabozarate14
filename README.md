@@ -1,6 +1,6 @@
 
 # Gabriel Zarate Calderon
-### M.S. in Data Science = Informatic Engineer
+### M.S. in Data Science - Informatic Engineer
 
 
 
